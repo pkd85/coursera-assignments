@@ -1,0 +1,22 @@
+body {
+  font-family: "Times New Roman", Arial, sans-serif;
+}
+.navbar-brand {
+  float: left;
+  font-size: 2em;
+}
+#dropdown {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#dropdown li {
+  text-align: center;
+  font-size: 1.2em;
+  border: 1px solid black;
+  background-color: yellow;
+  width: 100%;
+}
+#a-lot-of-text {
+  background-color: grey;
+  height: 1000px;
+}
